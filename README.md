@@ -1,6 +1,6 @@
 # tools
 
-| First Header  | Second Header |
+| Tool          | Description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell Content Cell Content Cell  |
 | Content Cell  | Content Cell  |
