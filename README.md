@@ -26,8 +26,10 @@ Start a new terminal session or run
 ``` 
 source .zshrc
 ```
+---
+cool vscode extensions https://www.freecodecamp.org/news/best-colorful-vscode-extensions-for-productivity/
 
-
+--
 
 | Tool          | Description |
 | ------------- | ------------- |
