@@ -41,3 +41,8 @@ Checkout some more things by Matt: https://github.com/mattyfew/awesome-stuff
 
 <!-- https://docs.github.com/en/github/writing-on-github/organizing-information-with-tables -->
 
+-------
+ordered imports and other tslint rules
+
+https://github.com/import-js/eslint-plugin-import/blob/HEAD/docs/rules/order.md
+https://github.com/import-js/eslint-plugin-import/blob/main/docs/rules/no-cycle.md
