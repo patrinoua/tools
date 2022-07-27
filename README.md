@@ -46,3 +46,8 @@ ordered imports and other tslint rules
 
 https://github.com/import-js/eslint-plugin-import/blob/HEAD/docs/rules/order.md
 https://github.com/import-js/eslint-plugin-import/blob/main/docs/rules/no-cycle.md
+
+### Sharing stuff
+
+Quickly create graphs https://excalidraw.com/
+Share React Native code https://snack.expo.dev
