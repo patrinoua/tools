@@ -1,5 +1,8 @@
 # Tools
 
+### Printable Gmail shortcuts 
+[link](https://docs.google.com/document/d/16h5TBdVGAjNn41h9MlFmK7_DP_WQfZyDSfkIf0RALb4/edit?usp=sharing)
+
 #### Terminal
 Optimize your terminal [link](https://www.youtube.com/watch?v=xy9OIJWtarc&list=PLRHtAyhZJXF751DzeAC1kyFZJGtlWgtCO&index=32)
 
