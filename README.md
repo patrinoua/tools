@@ -1,7 +1,9 @@
 # Tools
 
-### Printable Gmail shortcuts 
-[link](https://docs.google.com/document/d/16h5TBdVGAjNn41h9MlFmK7_DP_WQfZyDSfkIf0RALb4/edit?usp=sharing)
+## Speed up your developer process
+
+### Github CLI
+github commands on the terminal [https://cli.github.com/](https://cli.github.com/)
 
 #### Terminal
 Optimize your terminal [link](https://www.youtube.com/watch?v=xy9OIJWtarc&list=PLRHtAyhZJXF751DzeAC1kyFZJGtlWgtCO&index=32)
@@ -34,6 +36,10 @@ cool vscode extensions https://www.freecodecamp.org/news/best-colorful-vscode-ex
 
 --
 
+### Printable Gmail shortcuts 
+[link](https://docs.google.com/document/d/16h5TBdVGAjNn41h9MlFmK7_DP_WQfZyDSfkIf0RALb4/edit?usp=sharing)
+
+
 | Tool          | Description |
 | ------------- | ------------- |
 | Evernote  | Note taking  |
@@ -50,7 +56,10 @@ ordered imports and other tslint rules
 https://github.com/import-js/eslint-plugin-import/blob/HEAD/docs/rules/order.md
 https://github.com/import-js/eslint-plugin-import/blob/main/docs/rules/no-cycle.md
 
-### Sharing stuff
+## Sharing stuff
 
+### Graphs
 Quickly create graphs https://excalidraw.com/
+
+### React Native Code
 Share React Native code https://snack.expo.dev
