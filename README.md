@@ -2,17 +2,17 @@
 
 ## Speed up your developer process
 
-### Github CLI
+### Github 
 - Github CLI github commands on the terminal [https://cli.github.com/](https://cli.github.com/)
 - Refined github [chrome extension](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf/related?hl=en)
 
-#### Terminal
+### Terminal
 Customise your terminal [link](https://www.youtube.com/watch?v=xy9OIJWtarc&list=PLRHtAyhZJXF751DzeAC1kyFZJGtlWgtCO&index=32)
 
 https://github.com/sindresorhus/pure customise your terminal / pure prompt
 
-##### zsh
-##### zsh-autosuggestions [link](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+### zsh
+#### zsh-autosuggestions [link](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 Clone this repository into $ZSH_CUSTOM/plugins (by default ~/.oh-my-zsh/custom/plugins)
 
 ``` 
