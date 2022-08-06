@@ -3,7 +3,8 @@
 ## Speed up your developer process
 
 ### Github CLI
-github commands on the terminal [https://cli.github.com/](https://cli.github.com/)
+- Github CLI github commands on the terminal [https://cli.github.com/](https://cli.github.com/)
+- Refined github [chrome extension](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf/related?hl=en)
 
 #### Terminal
 Customise your terminal [link](https://www.youtube.com/watch?v=xy9OIJWtarc&list=PLRHtAyhZJXF751DzeAC1kyFZJGtlWgtCO&index=32)
