@@ -12,6 +12,7 @@ Customise your terminal [link](https://www.youtube.com/watch?v=xy9OIJWtarc&list=
 https://github.com/sindresorhus/pure customise your terminal / pure prompt
 
 ### zsh
+
 #### zsh-autosuggestions [link](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 Clone this repository into $ZSH_CUSTOM/plugins (by default ~/.oh-my-zsh/custom/plugins)
 
@@ -36,6 +37,11 @@ source .zshrc
 cool vscode extensions https://www.freecodecamp.org/news/best-colorful-vscode-extensions-for-productivity/
 
 --
+
+
+
+
+
 
 ### Printable Gmail shortcuts 
 [link](https://docs.google.com/document/d/16h5TBdVGAjNn41h9MlFmK7_DP_WQfZyDSfkIf0RALb4/edit?usp=sharing)
