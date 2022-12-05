@@ -65,3 +65,6 @@ Quickly create graphs https://excalidraw.com/
 
 ### React Native Code
 Share React Native code https://snack.expo.dev
+
+### Dark mode
+https://darkreader.org
