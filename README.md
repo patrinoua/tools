@@ -1,13 +1,14 @@
 # Tools
 
 ## AI
-- https://chat.openai.com/chat
+- https://chat.openai.com/chat - ask questions and be amazed
 
-- https://www.midjourney.com/
+- https://www.midjourney.com/ - join the discord server, ask for a drawing and get 4 different variations
 
-- https://github.com/features/copilot
+- https://openai.com/dall-e-2/ - ask for any type of drawing
 
-- https://openai.com/dall-e-2/
+- https://github.com/features/copilot - AI backed code
+
 
 ## Speed up your developer process
 
