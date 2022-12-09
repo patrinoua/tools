@@ -1,6 +1,17 @@
 # Tools
 
+## AI
+- https://chat.openai.com/chat
+
+- https://www.midjourney.com/
+
+- https://github.com/features/copilot
+
+- https://openai.com/dall-e-2/
+
 ## Speed up your developer process
+
+### Raycast - a powerful alternative to spotlight https://www.raycast.com/
 
 ### Github 
 - Github CLI github commands on the terminal [https://cli.github.com/](https://cli.github.com/)
@@ -38,15 +49,8 @@ cool vscode extensions https://www.freecodecamp.org/news/best-colorful-vscode-ex
 
 --
 
-
-
-
-
-
 ### Printable Gmail shortcuts 
 [link](https://docs.google.com/document/d/16h5TBdVGAjNn41h9MlFmK7_DP_WQfZyDSfkIf0RALb4/edit?usp=sharing)
-
-
 
 Checkout some more things by Matt: https://github.com/mattyfew/awesome-stuff
 
@@ -57,8 +61,6 @@ ordered imports and other tslint rules
 
 https://github.com/import-js/eslint-plugin-import/blob/HEAD/docs/rules/order.md
 https://github.com/import-js/eslint-plugin-import/blob/main/docs/rules/no-cycle.md
-
-## Sharing stuff
 
 ### Graphs
 Quickly create graphs https://excalidraw.com/
